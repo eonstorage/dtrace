@@ -1,2 +1,0 @@
-# dtrace
-Cool dtrace programs
